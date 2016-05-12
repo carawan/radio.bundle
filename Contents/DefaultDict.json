@@ -182,5 +182,19 @@
         }
       ]
     }
+     {
+      "title": "Leproradio",
+      "icon": "leproradio.png",
+      "streams": [
+        {
+          "url": "http://leproradio.com/leproradio.m3u",
+          "protocol": "http",
+          "container": "mp4",
+          "codec": "mp4",
+          "playlist": "m3u",
+          "bitrate": 112
+        }
+      ]
+    }
   ]
 }
